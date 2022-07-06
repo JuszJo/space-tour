@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a01644e6.chunk.css",
+    "main.js": "/static/js/main.c41c6cc0.chunk.js",
+    "main.js.map": "/static/js/main.c41c6cc0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.20146964.js",
+    "runtime-main.js.map": "/static/js/runtime-main.20146964.js.map",
+    "static/js/2.4fba16f8.chunk.js": "/static/js/2.4fba16f8.chunk.js",
+    "static/js/2.4fba16f8.chunk.js.map": "/static/js/2.4fba16f8.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.a01644e6.chunk.css.map": "/static/css/main.a01644e6.chunk.css.map",
+    "static/js/2.4fba16f8.chunk.js.LICENSE.txt": "/static/js/2.4fba16f8.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/background-technology-tablet.48c38b02.jpg",
+    "static/media/image-anousheh-ansari.bb42b775.webp": "/static/media/image-anousheh-ansari.bb42b775.webp",
+    "static/media/image-douglas-hurley.e4c7def4.webp": "/static/media/image-douglas-hurley.e4c7def4.webp",
+    "static/media/image-europa.c3be3238.webp": "/static/media/image-europa.c3be3238.webp",
+    "static/media/image-launch-vehicle-landscape.4281a59f.jpg": "/static/media/image-launch-vehicle-landscape.4281a59f.jpg",
+    "static/media/image-launch-vehicle-portrait.0c758955.jpg": "/static/media/image-launch-vehicle-portrait.0c758955.jpg",
+    "static/media/image-mark-shuttleworth.665e198a.webp": "/static/media/image-mark-shuttleworth.665e198a.webp",
+    "static/media/image-mars.7f55f721.webp": "/static/media/image-mars.7f55f721.webp",
+    "static/media/image-moon.b5a3c90e.webp": "/static/media/image-moon.b5a3c90e.webp",
+    "static/media/image-space-capsule-landscape.d672da81.jpg": "/static/media/image-space-capsule-landscape.d672da81.jpg",
+    "static/media/image-space-capsule-portrait.dd0ac138.jpg": "/static/media/image-space-capsule-portrait.dd0ac138.jpg",
+    "static/media/image-spaceport-landscape.0f3ca5c0.jpg": "/static/media/image-spaceport-landscape.0f3ca5c0.jpg",
+    "static/media/image-spaceport-portrait.85523db5.jpg": "/static/media/image-spaceport-portrait.85523db5.jpg",
+    "static/media/image-titan.80738bc6.webp": "/static/media/image-titan.80738bc6.webp",
+    "static/media/image-victor-glover.1c271f99.webp": "/static/media/image-victor-glover.1c271f99.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20146964.js",
+    "static/js/2.4fba16f8.chunk.js",
+    "static/css/main.a01644e6.chunk.css",
+    "static/js/main.c41c6cc0.chunk.js"
+  ]
+}
